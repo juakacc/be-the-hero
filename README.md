@@ -1,5 +1,7 @@
 # Be The Hero
 
+![BeTheHero Logo](/frontend/src/assets/logo.svg)
+
 Material produzido durante a Semana OmniStack[Rockseat] - Estudos
 
 Implementação de uma aplicação utilizando uma stack JavaScript.
@@ -14,3 +16,12 @@ o aplicativo para encontrar os casos que desejam ajudar e entrar em contato com 
 - App desenvolvido utilizando React-Native
 
 Semana de muito aprendizado! :)
+
+Dashboard:
+
+![Dashboard](/dashboard.png)
+
+
+Aplicativo:
+
+<img src="/app.png" width="40%">
